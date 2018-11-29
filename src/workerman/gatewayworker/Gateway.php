@@ -37,4 +37,9 @@ class Gateway
 
         echo "hello";
     }
+
+    public static function gsk(){
+
+        echo "hello";
+    }
 }
