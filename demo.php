@@ -6,6 +6,6 @@
  * Time: 12:58
  */
 
-require  'vendor/autoload.php';
+require_once  './vendor/autoload.php';
 use workerman\gatewayworker\Gateway;
 Gateway::hello();

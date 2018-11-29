@@ -6,7 +6,7 @@
  * Time: 10:47
  */
 
-namespace workerman\gatewayworker;
+namespace GatewayWorker;
 
 class Gateway
 {
