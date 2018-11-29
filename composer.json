@@ -11,7 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "gatewaynb/nb": "v15.0"
+        "gatewaynb/nb": "v16.0"
     }
-
 }
