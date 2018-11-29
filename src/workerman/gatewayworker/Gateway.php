@@ -24,5 +24,8 @@ class Gateway
 
         echo "hello";
     }
+    public static function ssss(){
 
+        echo "hello";
+    }
 }
