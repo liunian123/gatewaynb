@@ -32,4 +32,9 @@ class Gateway
 
         echo "hello";
     }
+
+    public static function aaaa(){
+
+        echo "hello";
+    }
 }
