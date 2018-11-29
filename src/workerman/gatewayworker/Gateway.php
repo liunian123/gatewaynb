@@ -28,4 +28,8 @@ class Gateway
 
         echo "hello";
     }
+    public static function dddd(){
+
+        echo "hello";
+    }
 }
