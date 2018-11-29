@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "workerman\\gatewayworker\\": "src/workerman/gatewayworker"
+            "GatewayWorker\\": "src/workerman/gatewayworker"
         }
     }
 }
