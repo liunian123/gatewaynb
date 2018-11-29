@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Gatewayworker\\": "./src"
+            "workerman\\gatewayworker\\": "src/workerman/gatewayworker"
         }
     }
 }
