@@ -12,5 +12,10 @@
     "minimum-stability": "dev",
     "require": {
         "gatewaynb/nb": "v16.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "GatewayWorker": "./src"
+        }
     }
 }
