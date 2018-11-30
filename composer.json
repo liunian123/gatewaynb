@@ -9,9 +9,9 @@
             "email": "1483213287@qq.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
-        "gatewaynb/nb": "v1.0"
+        "gatewaynb/nb": "dev-master"
     },
     "autoload": {
         "psr-4": {
