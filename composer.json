@@ -9,7 +9,7 @@
             "email": "1483213287@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {
         "gatewaynb/nb": "v1.0"
     },
